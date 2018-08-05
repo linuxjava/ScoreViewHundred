@@ -1,4 +1,4 @@
-# ScoreView
+# ScoreViewHundred
 
 项目特点
 * 实现0到100数字滚动；
